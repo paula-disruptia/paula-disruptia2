@@ -1,66 +1,18 @@
-# Hola, soy Paula Porras 👋
+<h1 align="center">Hi 👋, I'm Paula Porras</h1>
+<h3 align="center">A passionate vibecoder from LATAM</h3>
 
-**Product Builder & Vibecoder | IA Aplicada · Plataformas de Talento · Data | Bogotá, Colombia**
+- 🔭 I’m currently working on [app.disruptia.co](app.disruptia.co)
 
-Cofundadora de Disruptia, plataforma TI de empleabilidad y desarrollo organizacional en Colombia.
-Construyo productos con IA que conectan talento tecnológico con oportunidades reales.
-Actualmente explorando LangGraph y agentes autónomos aplicados a RRHH.
+- 🌱 I’m currently learning **Claude Code, LangGraph**
 
----
+- 👯 I’m looking to collaborate on [https://disruptia-misi-n-vibecoding-85093359609.us-west1.run.app](https://disruptia-misi-n-vibecoding-85093359609.us-west1.run.app)
 
-## 🛠️ Stack
+- 📫 How to reach me **paula@disruptia.co**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## 📂 Proyectos destacados
-
-| Proyecto | Descripción | Stack | Demo |
-|----------|-------------|-------|------|
-| [Motor de Matching TI](https://github.com/paula-disruptia/ats-mvp-v2) | Sistema de matching entre candidatos y vacantes con IA. Reduce el tiempo de selección un 40% frente al proceso manual | Supabase, OpenAI, PostgreSQL | [Ver demo](https://app.disruptia.co) |
-| [Plataforma de Diagnóstico](https://github.com/paula-disruptia/plataforma-diagnostico) | Evaluación psicométrica de motivación laboral con análisis automatizado. Procesó 626 participantes en el programa Mujeres Adelante | Python, Supabase, IA generativa | En desarrollo |
-| [Acompañamiento Post-Colocación](https://github.com/paula-disruptia/aceleradora-talento-d) | Sistema de retención vía WhatsApp con seguimiento automatizado por semana, rol y modalidad | Chatiigo, Supabase, Webhooks | En desarrollo |
-
----
-
-## 🤖 Cómo uso IA en mi trabajo
-
-Uso IA como acelerador, no como sustituto:
-- **Cursor / Claude Code** para construir features completas desde prompts
-- **Claude** para revisar arquitectura, lógica de negocio y documentación
-- **v0.dev / Lovable** para prototipar interfaces en horas, no semanas
-
-Todo lo que construyo lo entiendo y puedo explicar cada decisión técnica.
-
----
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=paula-disruptia&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paula-disruptia&layout=compact&theme=dark&hide_border=true)
-
----
-
-## 📚 Actualmente aprendiendo
-
-- [ ] LangGraph para agentes autónomos aplicados a selección de talento
-- [ ] Arquitecturas multi-agente con herramientas de RRHH
-- [ ] Integración de MCP servers en flujos de producto
-
----
-
-## 🤝 Conectemos
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulaporras)
-[![Disruptia](https://img.shields.io/badge/Disruptia-6B21A8?style=flat&logoColor=white)](https://disruptia.co)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:paula@disruptia.co)
-
----
-
-> *"Creo que el talento en Colombia no tiene problema de cantidad. Tiene problema de visibilidad. Estoy construyendo la infraestructura para cambiar eso."*
